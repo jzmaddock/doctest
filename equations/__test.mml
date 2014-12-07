@@ -1,0 +1,54 @@
+<?xml version='1.0'?>
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN'
+  'http://www.w3.org/TR/MathML2/dtd/xhtml-math11-f.dtd'
+  [<!ENTITY mathml 'http://www.w3.org/1998/Math/MathML'>]>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head><title>__test</title>
+<!-- MathML created with MathCast Equation Editor version 0.89 -->
+</head>
+<body>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mrow>
+    <mi>f</mi>
+    <mfenced>
+      <mrow>
+        <mi>x</mi>
+        <mo>;</mo>
+        <msub>
+          <mi>x</mi>
+          <mn>0</mn>
+        </msub>
+      </mrow>
+    </mfenced>
+    <mo>=</mo>
+    <mo>{</mo>
+    <mtable>
+      <mtr>
+        <mtd>
+          <mi>&#x221E;</mi>
+          <mo>;</mo>
+          <mi>x</mi>
+          <mo>=</mo>
+          <msub>
+            <mi>x</mi>
+            <mn>0</mn>
+          </msub>
+        </mtd>
+      </mtr>
+      <mtr>
+        <mtd>
+          <mn>0</mn>
+          <mo>;</mo>
+          <mi>x</mi>
+          <mo>&#x2260;</mo>
+          <msub>
+            <mi>x</mi>
+            <mn>0</mn>
+          </msub>
+        </mtd>
+      </mtr>
+    </mtable>
+  </mrow>
+</math>
+</body>
+</html>
