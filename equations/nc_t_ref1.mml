@@ -1,8 +1,6 @@
-<?xml version='1.0'?>
-<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN'
-  'http://www.w3.org/TR/MathML2/dtd/xhtml-math11-f.dtd'
-  [<!ENTITY mathml 'http://www.w3.org/1998/Math/MathML'>]>
-<html xmlns='http://www.w3.org/1999/xhtml'>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/TR/MathML2/dtd/xhtml-math11-f.dtd" [<!ENTITY mathml 'http://www.w3.org/1998/Math/MathML'>]>
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head><title>nc_t_ref1</title>
 <!-- MathML created with MathCast Equation Editor version 0.88 -->
 </head>
@@ -14,39 +12,39 @@
       <mrow>
         <mi>x</mi>
         <mo>;</mo>
-        <mi>&#x03BD;</mi>
+        <mi>&#x3bd;</mi>
         <mo>;</mo>
-        <mi>&#x03B4;</mi>
+        <mi>&#x3b4;</mi>
       </mrow>
     </mfenced>
-    <mspace width="1em"/>
+    <mspace width="1.0em"/>
     <mo>=</mo>
-    <mspace width="1em"/>
+    <mspace width="1.0em"/>
     <mfrac>
       <mrow>
         <msup>
-          <mi>&#x03BD;</mi>
+          <mi>&#x3bd;</mi>
           <mrow>
             <mfrac>
-              <mi>&#x03BD;</mi>
+              <mi>&#x3bd;</mi>
               <mn>2</mn>
             </mfrac>
           </mrow>
         </msup>
-        <mi>&#x03BD;</mi>
+        <mi>&#x3bd;</mi>
         <mo>!</mo>
       </mrow>
       <mrow>
         <msup>
           <mn>2</mn>
-          <mi>&#x03BD;</mi>
+          <mi>&#x3bd;</mi>
         </msup>
         <msup>
           <mi>e</mi>
           <mrow>
             <mfrac>
               <msup>
-                <mi>&#x03B4;</mi>
+                <mi>&#x3b4;</mi>
                 <mn>2</mn>
               </msup>
               <mn>2</mn>
@@ -56,7 +54,7 @@
         <msup>
           <mfenced>
             <mrow>
-              <mi>&#x03BD;</mi>
+              <mi>&#x3bd;</mi>
               <mo>+</mo>
               <msup>
                 <mi>x</mi>
@@ -66,16 +64,16 @@
           </mfenced>
           <mrow>
             <mfrac>
-              <mi>&#x03BD;</mi>
+              <mi>&#x3bd;</mi>
               <mn>2</mn>
             </mfrac>
           </mrow>
         </msup>
-        <mi>&#x0393;</mi>
+        <mi>&#x393;</mi>
         <mfenced>
           <mrow>
             <mfrac>
-              <mi>&#x03BD;</mi>
+              <mi>&#x3bd;</mi>
               <mn>2</mn>
             </mfrac>
           </mrow>
@@ -84,14 +82,17 @@
     </mfrac>
     <mfenced>
       <mrow>
+        <mrow>
+          <msqrt>
+            <mn>2</mn>
+          </msqrt>
+          <mi>&#x3b4;</mi>
+          <mi>x</mi>
+        </mrow>
         <mfrac>
           <mrow>
-            <msqrt>
-              <mn>2</mn>
-            </msqrt>
-            <mi>&#x03B4;</mi>
             <msub>
-              <mi>x</mi>
+              <mi/>
               <mn>1</mn>
             </msub>
             <msub>
@@ -101,7 +102,7 @@
             <mfenced>
               <mrow>
                 <mfrac>
-                  <mi>n</mi>
+                  <mi>v</mi>
                   <mn>2</mn>
                 </mfrac>
                 <mo>+</mo>
@@ -115,7 +116,7 @@
                 <mfrac>
                   <mrow>
                     <msup>
-                      <mi>&#x03B4;</mi>
+                      <mi>&#x3b4;</mi>
                       <mn>2</mn>
                     </msup>
                     <msup>
@@ -127,7 +128,7 @@
                     <mn>2</mn>
                     <mfenced>
                       <mrow>
-                        <mi>n</mi>
+                        <mi>v</mi>
                         <mo>+</mo>
                         <msup>
                           <mi>x</mi>
@@ -143,7 +144,7 @@
           <mrow>
             <mfenced>
               <mrow>
-                <mi>&#x03BD;</mi>
+                <mi>&#x3bd;</mi>
                 <mo>+</mo>
                 <msup>
                   <mi>x</mi>
@@ -151,7 +152,7 @@
                 </msup>
               </mrow>
             </mfenced>
-            <mi>&#x0393;</mi>
+            <mi>&#x393;</mi>
             <mfenced>
               <mrow>
                 <mfrac>
@@ -160,7 +161,7 @@
                 </mfrac>
                 <mfenced>
                   <mrow>
-                    <mi>&#x03BD;</mi>
+                    <mi>&#x3bd;</mi>
                     <mo>+</mo>
                     <mn>1</mn>
                   </mrow>
@@ -188,7 +189,7 @@
                 </mfrac>
                 <mfenced>
                   <mrow>
-                    <mi>n</mi>
+                    <mi>v</mi>
                     <mo>+</mo>
                     <mn>1</mn>
                   </mrow>
@@ -202,7 +203,7 @@
                 <mfrac>
                   <mrow>
                     <msup>
-                      <mi>&#x03B4;</mi>
+                      <mi>&#x3b4;</mi>
                       <mn>2</mn>
                     </msup>
                     <msup>
@@ -214,7 +215,7 @@
                     <mn>2</mn>
                     <mfenced>
                       <mrow>
-                        <mi>&#x03BD;</mi>
+                        <mi>&#x3bd;</mi>
                         <mo>+</mo>
                         <msup>
                           <mi>x</mi>
@@ -230,7 +231,7 @@
           <mrow>
             <msqrt>
               <mrow>
-                <mi>&#x03BD;</mi>
+                <mi>&#x3bd;</mi>
                 <mo>+</mo>
                 <msup>
                   <mi>x</mi>
@@ -238,11 +239,11 @@
                 </msup>
               </mrow>
             </msqrt>
-            <mi>&#x0393;</mi>
+            <mi>&#x393;</mi>
             <mfenced>
               <mrow>
                 <mfrac>
-                  <mi>&#x03BD;</mi>
+                  <mi>&#x3bd;</mi>
                   <mn>2</mn>
                 </mfrac>
                 <mo>+</mo>
