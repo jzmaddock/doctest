@@ -40,6 +40,7 @@
 [section graphs]
 
 [table
+[[file][SVG][PNG]]
 [[acosh][[$../graphs/acosh.svg]][[$../graphs/acosh.png]]]
 [[airy_ai][[$../graphs/airy_ai.svg]][[$../graphs/airy_ai.png]]]
 [[airy_aip][[$../graphs/airy_aip.svg]][[$../graphs/airy_aip.png]]]
@@ -169,6 +170,7 @@
 [section equations]
 
 [table
+[[Name][SVG][PNG]]
 [[acosh1][[$../equations/acosh1.svg]][[$../equations/acosh1.png]]]
 [[acosh2][[$../equations/acosh2.svg]][[$../equations/acosh2.png]]]
 [[acosh3][[$../equations/acosh3.svg]][[$../equations/acosh3.png]]]
@@ -215,7 +217,6 @@
 [[bessel9][[$../equations/bessel9.svg]][[$../equations/bessel9.png]]]
 [[beta_dist_kurtosis][[$../equations/beta_dist_kurtosis.svg]][[$../equations/beta_dist_kurtosis.png]]]
 [[beta1][[$../equations/beta1.svg]][[$../equations/beta1.png]]]
-[[beta1.svg][[$../equations/beta1.svg.svg]][[$../equations/beta1.svg.png]]]
 [[beta2][[$../equations/beta2.svg]][[$../equations/beta2.png]]]
 [[beta3][[$../equations/beta3.svg]][[$../equations/beta3.png]]]
 [[beta4][[$../equations/beta4.svg]][[$../equations/beta4.png]]]

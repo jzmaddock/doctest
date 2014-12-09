@@ -1,6 +1,13 @@
- 	<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/TR/MathML2/dtd/xhtml-math11-f.dtd" [<!ENTITY mathml 'http://www.w3.org/1998/Math/MathML'>]>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>ellint24</title>
+<!-- MathML created with MathCast Equation Editor version 0.92 -->
+</head>
+<body>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
   <mrow>
-     <mtable columnalign="right center left">
+    <mtable>
       <mtr>
         <mtd>
           <msqrt>
@@ -28,12 +35,12 @@
             </mrow>
           </msqrt>
           <mrow>
-            <mo>&#x220F;</mo>
+            <mo>&#x220f;</mo>
             <mfenced>
               <mrow>
                 <mi>n</mi>
                 <mo>,</mo>
-                <mi>&#x03C6;</mi>
+                <mi>&#x3c6;</mi>
                 <mo>,</mo>
                 <mi>k</mi>
               </mrow>
@@ -69,12 +76,12 @@
             </mrow>
           </msqrt>
           <mrow>
-            <mo>&#x220F;</mo>
+            <mo>&#x220f;</mo>
             <mfenced>
               <mrow>
                 <mi>N</mi>
                 <mo>,</mo>
-                <mi>&#x03C6;</mi>
+                <mi>&#x3c6;</mi>
                 <mo>,</mo>
                 <mi>k</mi>
               </mrow>
@@ -84,7 +91,7 @@
       </mtr>
       <mtr>
         <mtd>
-          <mspace width="1em"/>
+          <mspace width="1.0em"/>
         </mtd>
         <mtd>
           <mo>+</mo>
@@ -105,7 +112,7 @@
           <mi>F</mi>
           <mfenced>
             <mrow>
-              <mi>&#x03C6;</mi>
+              <mi>&#x3c6;</mi>
               <mo>,</mo>
               <mi>k</mi>
             </mrow>
@@ -114,7 +121,7 @@
       </mtr>
       <mtr>
         <mtd>
-          <mspace width="1em"/>
+          <mspace width="1.0em"/>
         </mtd>
         <mtd>
           <mo>+</mo>
@@ -141,14 +148,14 @@
                   <mi>sin</mi>
                   <mrow>
                     <mn>2</mn>
-                    <mi>&#x03C6;</mi>
+                    <mi>&#x3c6;</mi>
                   </mrow>
                 </mrow>
                 <mrow>
-                  <mtext>?</mtext>
+                  <mi>&#x394;</mi>
                   <mfenced>
                     <mrow>
-                      <mi>&#x03C6;</mi>
+                      <mi>&#x3c6;</mi>
                     </mrow>
                   </mfenced>
                 </mrow>
@@ -224,5 +231,5 @@
       </mtr>
     </mtable>
   </mrow>
-</math>
-
+</math></body>
+</html>
