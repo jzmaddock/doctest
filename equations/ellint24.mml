@@ -229,6 +229,36 @@
           </msqrt>
         </mtd>
       </mtr>
+      <mtr>
+        <mtd>
+          <mi>&#x394;</mi>
+          <mfenced>
+            <mrow>
+              <mi>&#x3c6;</mi>
+            </mrow>
+          </mfenced>
+        </mtd>
+        <mtd>
+          <mo>=</mo>
+        </mtd>
+        <mtd>
+          <msqrt>
+            <mrow>
+              <mn>1</mn>
+              <mo>&#x2212;</mo>
+              <msup>
+                <mi>k</mi>
+                <mn>2</mn>
+              </msup>
+              <msup>
+                <mi>sin</mi>
+                <mn>2</mn>
+              </msup>
+              <mi>&#x3c6;</mi>
+            </mrow>
+          </msqrt>
+        </mtd>
+      </mtr>
     </mtable>
   </mrow>
 </math></body>
